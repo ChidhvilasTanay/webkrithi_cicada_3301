@@ -71,6 +71,12 @@ body{
     background-color:rgba(27, 23, 23, 0.938) ;
     border-width:3px;
     }
+    .heading{
+        color:black;
+        font-family:"ubuntu", "sans-serif";
+        background-color:none;
+        margin-left:25px;
+    }
     
 
 .footer{
