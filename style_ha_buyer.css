@@ -70,6 +70,51 @@ body{
     background-color:rgba(27, 23, 23, 0.938) ;
     border-width:3px;
     }
+    .main{
+        width:100%;
+        margin-left:25px;
+        display:flex;
+        align-content:space-around;
+    }
+    .frame{
+        border-radius: 4px;
+        width:340px;
+        display:flex;
+        flex-direction: column;
+        align-items:center;
+        background-color:rgba(27, 23, 23, 0.938) ;
+        padding: 0px;
+        margin:3px;
+    }
+    .profile{
+        height:220px;
+        width:220px;
+        padding:6px;
+        background-color:rgba(27, 23, 23, 0) ;
+    }
+    .description{
+        font-family:"ubuntu", "sans-serif";
+        font-weight: 700;
+        width:320px;
+        letter-spacing: 0.75px;
+        font-size:14px;
+        display:flex;
+        padding:5px;
+        flex-direction:column;
+        align-items:center;
+        background-color:rgb(248, 12, 12);
+        border-radius:8px;
+    }
+    .proceed{
+        width:150px;
+    }
+    .heading{
+        color:black;
+        font-family:"ubuntu", "sans-serif";
+        background-color:none;
+        margin-left:25px;
+    }
+    
     
 .footer{
     height:80px;
