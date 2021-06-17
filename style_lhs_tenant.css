@@ -73,13 +73,15 @@ background-color:rgba(27, 23, 23, 0.938) ;
 border-width:3px;
 }
 .main{
-    width:100%;
+    width:1500px;
     margin-left:25px;
     display:flex;
+    flex-wrap:wrap;
     align-content:space-around;
+    
 }
 .frame{
-    border-radius: 4px;
+    border-radius: 8px;
     width:340px;
     display:flex;
     flex-direction: column;
@@ -119,16 +121,14 @@ border-width:3px;
 
 .footer{
     height:80px;
-    position:absolute;
-    bottom:0px;
     width:100%;
     min-width:1400px;
-    margin-left:5px;
     display:flex;
     justify-content: space-around;
     background-color:rgb(12, 11, 15);
     color:rgba(255, 255, 255, 0.281);
-    margin:0px;
+    margin-top:15px;
+    padding-top:5px;
     font-family:"ubuntu", "sans-serif";
     font-size: 13px;
 }

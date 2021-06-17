@@ -80,18 +80,16 @@ body{
     }
     
     
-.footer{
-    height:80px;
-    position:absolute;
-    bottom:0px;
-    width:100%;
-    min-width:1400px;
-    margin-left:5px;
-    display:flex;
-    justify-content: space-around;
-    background-color:rgb(12, 11, 15);
-    color:rgba(255, 255, 255, 0.281);
-    margin:0px;
-    font-family:"ubuntu", "sans-serif";
-    font-size: 13px;
-}
+    .footer{
+        height:80px;
+        width:100%;
+        min-width:1400px;
+        display:flex;
+        justify-content: space-around;
+        background-color:rgb(12, 11, 15);
+        color:rgba(255, 255, 255, 0.281);
+        margin-top:15px;
+        padding-top:5px;
+        font-family:"ubuntu", "sans-serif";
+        font-size: 13px;
+    }
