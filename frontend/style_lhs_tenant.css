@@ -1,0 +1,134 @@
+html,body{
+    overflow-x:hidden;
+}
+body{
+    margin:0px;
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1.5px;
+   
+}
+
+.main_menu{
+   background-color:rgb(12, 11, 15);
+    position:relative;
+    padding-top:0px;
+    width:100%;
+    outline: black;
+    outline-style:ridge;
+    min-width:1500px;
+}
+.website_logo{
+    height:60px;
+    width:144px;
+    position:relative;
+    vertical-align: middle;
+}
+
+.button{
+    font-family:"ubuntu", "sans-serif";
+    font-weight:bold;
+    height: 50px; 
+    border-radius:6px;
+    border-color:rgb(12, 11, 15);
+    color:rgba(255, 255, 255, 0.541);
+    background-color:rgb(12, 11, 15);
+    }
+.log_in:hover,.home_appliances:hover, .room_rentals:hover, .sign_up:hover{
+    color:white;
+    margin:0px;
+    border-bottom-width: 3px;
+    border-bottom-color:rgb(52, 243, 52);
+}
+.local_hostel_services{
+    color:white;
+    border-bottom-width:6px;
+    border-bottom-color:rgb(52, 243, 52);
+}
+
+.bar{
+    font-family:"ubuntu", "sans-serif";
+    color:white ;
+    letter-spacing: 0.85px;
+    font-weight:bolder;
+    padding-left: 4px;
+    background-color:rgba(66, 57, 94, 0.733);
+    border-radius:10px;
+    border-color: black;
+    outline-width: 0px;
+}
+.search_bar{
+    position:relative;
+    width:600px;
+    height: 37px;
+}
+
+.for-lhs-tenant button{
+ position:absolute;
+ right:25px;
+}
+.button2:hover{
+color:#00c1cbb0;
+background-color:rgba(27, 23, 23, 0.938) ;
+border-width:3px;
+}
+.main{
+    width:1500px;
+    margin-left:25px;
+    display:flex;
+    flex-wrap:wrap;
+    align-content:space-around;
+    
+}
+.frame{
+    border-radius: 8px;
+    width:340px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    background-color:rgba(27, 23, 23, 0.938) ;
+    padding: 0px;
+    margin:3px;
+}
+.profile{
+    height:220px;
+    width:220px;
+    padding:6px;
+    background-color:rgba(27, 23, 23, 0) ;
+}
+.description{
+    font-family:"ubuntu", "sans-serif";
+    font-weight: 700;
+    width:320px;
+    letter-spacing: 0.75px;
+    font-size:14px;
+    display:flex;
+    padding:5px;
+    flex-direction:column;
+    align-items:center;
+    background-color:rgb(248, 12, 12);
+    border-radius:8px;
+}
+.proceed{
+    width:150px;
+}
+.heading{
+    color:black;
+    font-family:"ubuntu", "sans-serif";
+    background-color:none;
+    margin-left:25px;
+}
+
+.footer{
+    height:80px;
+    width:100%;
+    min-width:1400px;
+    display:flex;
+    justify-content: space-around;
+    background-color:rgb(12, 11, 15);
+    color:rgba(255, 255, 255, 0.281);
+    margin-top:15px;
+    padding-top:5px;
+    font-family:"ubuntu", "sans-serif";
+    font-size: 13px;
+}
