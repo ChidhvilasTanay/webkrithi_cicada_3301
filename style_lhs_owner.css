@@ -72,6 +72,7 @@ color:#00c1cbb0;
 background-color:rgba(27, 23, 23, 0.938) ;
 border-width:3px;
 }
+
 .heading{
     color:#EDF5E1;
     font-family:"ubuntu", "sans-serif";
@@ -79,6 +80,38 @@ border-width:3px;
     font-size:40px;
     margin-left:25px;
 }
+.property-sale{
+    color:#00c1cbb0;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-radius: 4px;
+    padding:20px;
+    width:600px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    background-color:rgba(27, 23, 23, 0.938) ;
+    position:absolute;
+    top:22%;
+    left:1.7%;
+}
+.property-sale .bar{
+    border-radius:4px;
+    height:30px;
+}
+.name .bar{
+    width:242px;
+}
+.property-name{
+    width:500px;
+}
+.property-address{
+    width:500px;
+}
+.pincode{
+    width:242px;
+}
+
 
 .footer{
     position:absolute;

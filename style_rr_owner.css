@@ -78,20 +78,49 @@ body{
         font-size:40px;
         margin-left:25px;
     }
-    
-
-    .footer{
-        position:absolute;
-        bottom:0px;
-        height:133px;
-        width:100%;
-        min-width:1400px;
+    .property-rental{
+        color:#00c1cbb0;
+        font-weight: bold;
+        letter-spacing: 2px;
+        border-radius: 4px;
+        padding:20px;
+        width:600px;
         display:flex;
-        justify-content: space-around;
-        background-color:rgb(12, 11, 15);
-        color:rgba(255, 255, 255, 0.281);
-        margin-top:15px;
-        padding-top:5px;
-        font-family:"ubuntu", "sans-serif";
-        font-size: 13px;
+        flex-direction: column;
+        align-items:center;
+        background-color:rgba(27, 23, 23, 0.938) ;
+        position:absolute;
+        top:22%;
+        left:1.7%;
+    }
+    .property-rental .bar{
+        border-radius:4px;
+        height:30px;
+    }
+    .name .bar{
+        width:242px;
+    }
+    .property-name{
+        width:500px;
+    }
+    .property-address{
+        width:500px;
+    }
+    .pincode{
+        width:242px;
+    }    
+.footer{
+    position:absolute;
+    bottom:0px;
+    height:133px;
+    width:100%;
+    min-width:1400px;
+    display:flex;
+    justify-content: space-around;
+    background-color:rgb(12, 11, 15);
+    color:rgba(255, 255, 255, 0.281);
+    margin-top:15px;
+    padding-top:5px;
+    font-family:"ubuntu", "sans-serif";
+    font-size: 13px;
     }
