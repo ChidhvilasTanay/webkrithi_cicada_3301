@@ -95,9 +95,9 @@ html,body{
     }
     
     .footer{
-        height:80px;
         position:absolute;
         bottom:0px;
+        height:133px;
         width:100%;
         min-width:1400px;
         display:flex;
