@@ -88,12 +88,12 @@ border-width:3px;
     align-items:center;
     background-color:rgba(27, 23, 23, 0.938) ;
     margin:5px;
+    padding-top:7px;
     padding-bottom:4px;
 }
 .profile{
     height:220px;
     width:220px;
-    padding:5px;
     border:none;
     outline:none;
 }
