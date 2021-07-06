@@ -113,3 +113,10 @@ html,body{
         font-family:"ubuntu", "sans-serif";
         font-size: 13px;
     }
+
+    .footer a{
+        color:inherit;
+    }
+    .footer a:hover{
+       color:rgba(0, 0, 255, 0.479);
+    }
