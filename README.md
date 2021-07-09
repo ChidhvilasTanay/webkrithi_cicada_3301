@@ -56,6 +56,12 @@ Home Appliances
 
 ## NOTE
 It is just a frontend layout, so login and sharing features won't work for real.
+# Team Members
+Anand Batchala(2020IMT-008)
+
+Banyapaka Kalyan Kumar(2020IMT-022)
+
+Mogalluru Chidhvilas Tanay(2020IMT-060)
 
 
 
