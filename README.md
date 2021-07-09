@@ -3,7 +3,7 @@
 A property and home rental site!
 
 ## Tech Stack Used
-HTML,CSS,JS.
+HTML,CSS.
 
 
 [click here to view website](https://chidhvilastanay.github.io/webkrithi_cicada_3301/index.html)
