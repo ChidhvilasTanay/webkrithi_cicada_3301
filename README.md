@@ -22,6 +22,12 @@ Home Page
 
  ![image](https://user-images.githubusercontent.com/85628776/125086682-7c291100-e0e9-11eb-8895-fce0ed81f66a.png)
  
+ ![image](https://user-images.githubusercontent.com/85628776/125095738-1e4cf700-e0f2-11eb-9ca7-7775bfa31175.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85628776/125095867-3b81c580-e0f2-11eb-9240-e8b317d84a6a.png)
+
+
+ 
 Login Page
 
 
